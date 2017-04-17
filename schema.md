@@ -22,3 +22,5 @@ orders
 
 hidden table combines order quantity with customer id
 table to join orders and pizzas
+join table for for customers and address add boolean to indicate primary address
+make functions that make the calls to to db.
